@@ -146,7 +146,7 @@ Seeing this, your boss walks over to give you a big high-five. You've done a fan
  Furthermore, when breaking your streaming lambda code as suggested above, you should start receiving SNS-based alert emails after a couple of minutes indicating that your pipeline has failed. If you see these messages, as well as the incrementing content in your S3 bucket, then your pipeline is functioning correctly - well done! |
 
 
-### Step 8: Environment Teardown
+### Step 7: Environment Teardown
 
 |    🚩 **Tear Down** 🚩    |
 | ------------------------------------ |
